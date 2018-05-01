@@ -1,0 +1,20 @@
+{
+  "name": "RPA",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Core.Activities": "18.1.6680.15559",
+    "UiPath.Database.Activities": "1.1.6660.26865",
+    "UiPath.Excel.Activities": "2.3.6682.26635",
+    "UiPath.Mail.Activities": "1.1.6562.21018",
+    "UiPath.PDF.Activities": "1.0.6479.13204"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.4.0",
+  "projectVersion": "1.0.6694.19426",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
